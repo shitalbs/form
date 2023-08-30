@@ -1,0 +1,121 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(94, 222, 251);
+    
+        /* background-color: crimson; */
+        background-image: linear-gradient(to bottom right, rgb(112, 100, 217), yellow);
+        font-family: 'Ubuntu', sans-serif;
+    
+    
+}
+
+.heading1{
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    color:blue;
+}
+
+.input{
+    margin-top: 1%;
+    margin-left: 5%;
+    display: block;
+    width: 90%;
+}
+
+
+
+.heading1{
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    font-weight: 600;
+    color: rgb(40, 46, 223);
+}
+
+.heaading2{
+    text-align:center;
+    margin-top: 3%;
+    margin-bottom: 5%;
+}
+
+.rform{
+    border: 1px solid black;
+    width: 80%;
+    margin: auto;
+    margin-top: 2%;
+    margin-bottom: 5%;
+    background-color: rgb(32, 207, 238);
+    
+}
+
+.input{
+    margin-top: 1%;
+    margin-left: 5%;
+    display: block;
+    width: 60%;
+}
+
+.Gender, .skills{
+    margin-left: 5%;
+    
+}
+
+.Gen, .Skills{
+    margin-left: 8%;
+}
+
+.email{
+    margin-top: 4%;
+}
+
+.file{
+    margin-top: 1%;
+    margin-left: 5%;
+}
+
+.sk{
+    margin-bottom: 3%;
+}
+
+.button{
+    
+    margin-left: 30%;
+    margin-bottom: 2%;
+}
+
+.button1{
+    margin-left: 2%;
+    margin-bottom: 2%;
+}
+
+
+.box{
+    border: 1px solid black;
+    margin:auto;
+    margin-top: 2.5%;
+    width: 60%;
+    height: 48%;
+    padding-top: 20px;
+    background-color: aliceblue;
+    
+}
+
+
+
+.divrow{
+    height: 4.5rem;
+    margin: auto;
+    
+}
+
+p{
+    margin-top: 2%;
+    margin-left: 10%;
+}
+
+
+
